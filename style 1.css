@@ -1,0 +1,66 @@
+header,footer
+{
+    background: linear-gradient(to right,rgb(35, 35, 88),rgb(84, 194, 231));
+    color: white;
+    padding: 40px 0;
+
+}
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: ivory;
+    color: darkgoldenrod;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+h1, h2 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+section {
+    padding: 5px;
+}
+
+img 
+{
+    margin: 5px;
+    padding: 5px;
+    background-color: mintcream;
+    box-shadow: 0 2px 4px black;
+    border-radius: 8px;
+}    
+
+form {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px black;
+}
+
+form button {
+    background-color: rgb(34, 34, 141);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+form button:hover {
+    background-color: rgb(10, 4, 80);
+}
