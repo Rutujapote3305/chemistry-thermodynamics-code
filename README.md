@@ -8,7 +8,7 @@ Thermodynamic Processes
 Basic Chemistry Concepts
 Educational web layout using HTML & CSS
 
-## 🛠️ Technologies Used
+## Technologies Used
 HTML5
 CSS3
 
